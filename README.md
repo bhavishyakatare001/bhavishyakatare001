@@ -1,16 +1,26 @@
-## Hi there 👋
+# Bhavishya Katare
 
-<!--
-**bhavishyakatare001/bhavishyakatare001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student in AI & Analytics at Medi-Caps University, Indore. I'm building a strong base in C++ and Python and working towards full-stack AI engineering.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Data structures and algorithms in C++
+- Python for data analysis, and backend development with FastAPI
+- Building small projects and shipping them on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+| Project | What it is |
+|---|---|
+| [dragons-forge](https://github.com/bhavishyakatare001/dragons-forge) | Four-stage research pipeline in plain Python: ArXiv search, filtering, SQLite, report (analysis stage in progress) |
+| [Naag Shakti](https://github.com/bhavishyakatare001/Hackathon_Projects_Archive/tree/main/projects/2026-intel-naagshakti-clinic) | Clinic appointment booking app (Python backend, JavaScript frontend), built offline at the Innovation Sprint hackathon (Intel Unnati) |
+| [Learning_Sandbox](https://github.com/bhavishyakatare001/Learning_Sandbox) | Daily C++ and Python practice |
+
+## Skills
+C++ · Python · OOP · Git · HTML, CSS, JavaScript
+
+## Certifications
+- Intel Unnati: AI Implementation with Programming Techniques and Best Practices
+- Intel Unnati: AI Python – Intelligence Amplified
+- Nasscom: MERN Stack
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/bhavishyakatare)
